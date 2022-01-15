@@ -24,3 +24,5 @@ Next, the program will ask you if you want it to display the difference table. T
 
 Lastly, the program will ask you if you want it to draw the phylogenetic tree of life. If you answer `y`, it will draw the tree in a new window. There should also be a small blank window.
 To move the tree of life around, shift your computer's focus to that blank window. You should be able to move the tree with the arrow keys. You can also reset the view to the original position with the `r` key.
+
+![image](https://user-images.githubusercontent.com/32907199/149603621-51d8fb4d-8eae-4888-a416-1dee7b9c3f8a.png)
